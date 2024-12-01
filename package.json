@@ -1,0 +1,15 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "testing automation and scraping data on web pages",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "sky",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
